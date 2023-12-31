@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Alexander, I'm a PHP Developer with experience in MS Dynamics Nav, Python, C# and Arduino development.
+
+📫 How to reach me:
+Website: [https://BespredeL.name](https://BespredeL.name)
+Email: [hello@bespredel.name](mailto:hello@bespredel.name)
 
 <!--
 **BespredeL/BespredeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
