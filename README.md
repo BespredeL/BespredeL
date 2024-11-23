@@ -8,7 +8,7 @@ My name is Aleksandr, I'm a PHP Developer with experience in Python, MS Dynamics
 <h2 align="center">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,js,jquery,html,css,bootstrap,py,flask,cs,arduino,vite,regex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,js,jquery,html,css,bootstrap,py,flask,cs,arduino,vite,regex,phpstorm&perline=8" />
   </a>
 </p>
 
