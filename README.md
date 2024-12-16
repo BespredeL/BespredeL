@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 My name is Aleksandr, I'm a PHP Developer with experience in Python, MS Dynamics Nav, C# and Arduino development.
 
-📫 How to reach me:<br>
+#### 📫 How to reach me:
 - Website: [https://BespredeL.name](https://BespredeL.name)<br>
 - Email: [hello@bespredel.name](mailto:hello@bespredel.name)
 
-<h2 align="center">Skills</h2>
+## Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,js,jquery,html,css,bootstrap,py,flask,cs,arduino,vite,regex,phpstorm&perline=8" />
